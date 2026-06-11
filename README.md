@@ -36,7 +36,8 @@ As I have not built or tested for iOS, the way to run it on iOS is to use the Ex
 
 ## Demo
 
-Demo video:
+Ctrl+click or middle-click to open video in a new tab:
+
 [![Emoji Buttons App Demo](http://img.youtube.com/vi/anD9kri1CkM/0.jpg)](https://youtu.be/anD9kri1CkM)
 
 ## Future Development
