@@ -25,9 +25,12 @@ const styles = StyleSheet.create({
     backgroundColor: "dodgerblue",
     padding: 4,
     margin: 4,
+    height: 52,
+    aspectRatio: 1,
   },
   setButtonText: {
     fontSize: REM * 2,
+    textAlign: "center",
   },
   bigButton: {
     borderRadius: "10%",
