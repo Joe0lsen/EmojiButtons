@@ -1,3 +1,4 @@
+import Head from "expo-router/head";
 import React, { useState } from "react";
 import { Pressable, Text, View } from "react-native";
 import emojis from "../constants/emojis";
@@ -25,6 +26,10 @@ const app = () => {
 
   return (
     <View style={styles.body}>
+      <Head>
+        <title>Emoji Buttons</title>
+      </Head>
+
       <View style={styles.main}>
         {sets.map((set) => {
           return (
